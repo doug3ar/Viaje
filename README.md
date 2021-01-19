@@ -1,1 +1,1 @@
-[Confirma aqui tu participacion](https://doug3ar.github.io/Viaje/)
+[Confirma aqui tu participacion](https://github.com/doug3ar/Viaje.git)
